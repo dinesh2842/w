@@ -1,9 +1,2 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# starwars" 
+The is done using reactjs . i displayed data as a card and implemented pagination functionalities from starwarsapi which will be responsive in various devices . The GetAxios component is a React application that fetches data from the Star Wars API (SWAPI) to display information about planets. It utilizes Axios for making HTTP requests and includes pagination functionality for navigating through the list of planets. Each planet card provides the option to toggle resident details, offering a seamless exploration experience for users interested in the Star Wars universe. With its clean and responsive design, this application provides an engaging way to discover information about various planets in the Star Wars galaxy. i have given seperate components for Residentdetails ,planetcard and pagination which is user friendly
